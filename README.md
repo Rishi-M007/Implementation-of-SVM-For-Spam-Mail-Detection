@@ -17,8 +17,8 @@ To write a program to implement the SVM For Spam Mail Detection.
 ## Program:
 ```
 Program to implement the SVM For Spam Mail Detection..
-Developed by: RISHI M
-RegisterNumber:  212221230119
+Developed by: thamaraiselvan v
+RegisterNumber:  212221230115
 ```
 ```
 import pandas as pd
@@ -63,8 +63,6 @@ accuracy
 ## Result:
 Thus the program to implement the SVM For Spam Mail Detection is written and verified using python programming.
 
-## Output:
-![SVM For Spam Mail Detection](sam.png)
 
 
 ## Result:
